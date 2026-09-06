@@ -1,0 +1,1 @@
+<h2>find-first-palindromic-string-in-the-array Notes</h2><hr>[ Time taken: 10hrs 7m 22s ]
