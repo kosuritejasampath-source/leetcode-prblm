@@ -13,7 +13,7 @@ class MinStack:
 
     def pop(self) -> None:
         self.mnst.pop()
-        return self.st.pop()
+        self.st.pop()
 
     def top(self) -> int:
         return self.st[-1]
